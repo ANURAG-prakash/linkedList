@@ -1,0 +1,13 @@
+D:\LinkedList\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+D:\LinkedList\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+D:\LinkedList\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+D:\LinkedList\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+D:\LinkedList\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+D:\LinkedList\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+D:\LinkedList\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+D:\LinkedList\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+D:\LinkedList\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\LinkedList\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\LinkedList\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+D:\LinkedList\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+D:\LinkedList\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
